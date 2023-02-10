@@ -1,0 +1,101 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.about-introdction #About-title h3{
+    width: 240px;
+}
+
+  #tital-content{
+    width: 400px;
+}
+
+  .content-LIC{
+        height: 90vh;
+  }
+
+    table tr{
+    }
+.table-1{
+        widows: 30px;
+        float: left;
+        padding: 10px;
+        line-height: 20px;
+        border-collapse: collapse;
+       }
+   table tr{
+        padding: 10px;
+   }
+   .table-1{
+        margin-left: 50px;
+        margin-right: 25px;
+   }
+    .table-1  tr th{
+        border: 1px solid #ddd;
+        padding: 10px;
+        background-color:#f5f6fa ;
+
+    }
+    .table-1  tr td{
+        border: 1px solid #ddd;
+        padding: 10px;
+    }
+
+    .table-1 tr:hover{
+        background-color: #f5f6fa;
+    }
+
+    .table-2{
+        float: left;
+    }
+
+       
+   
+   .table-2 tr td{
+       border:none;
+       background-color: #f5f6fa ;
+       padding: 10px 20px;
+       border-radius: 8px;
+       margin-bottom: 20px;
+       }
+
+  .table-2 tr td i{
+        margin-right:10px ;
+  } 
+
+  .table-2 #About{
+        background: linear-gradient(90deg, #d61b3c 0%, #26304d 100%);
+        color: white;
+  }
+
+  .table-2 tr td a{
+        text-decoration: none;
+        color:black;
+        
+  }
+  
+
+
+    .table-2 tr td:hover{
+        background:#002E3E;
+        color: white;
+    }
+
+    .table-2 tr td a:hover{
+        color: white;
+        animation: lef-text 2s  linear;
+    }
+
+    @keyframes lef-text{
+        0%{
+                margin: 0;
+        }
+        5%{
+                margin-left: 5px;
+        }
+    }
+
+
+    
