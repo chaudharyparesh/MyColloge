@@ -1,0 +1,101 @@
+*{
+	box-sizing: border-box;
+}
+
+.last-footer-2{
+   margin-top: 280px;
+}
+   .current-table{
+   	float: left;
+      border: 1px solid #ddd;
+      margin-bottom: 40px;
+      padding: 20px;
+      border-radius:5px ;
+   }
+
+   .current-table table{
+      border: 1px solid #ddd;
+      line-height: 25px;
+   }
+
+   .current-table table tr,td,th{
+      padding: 0 10px;
+   }
+
+   .current-table table th{
+      background: #dee2e6;
+      color: #333;
+   }
+
+    b{
+      color: #333;
+   }
+   .current-table .current-table-header{
+      font-weight: bold;
+      color: #d61b3c;
+      border-bottom: 1px solid #ddd;
+      font-size: 21px;
+      padding-bottom: 5px;
+   }
+
+   .current-table .current-table-date{
+      text-align: right;
+      padding: 20px 0;
+   }
+  
+
+   .Apply-table{
+   	float: left;
+      border: 1px solid #ddd;
+      margin-bottom: 40px;
+      padding: 20px;
+      border-radius:5px;
+      margin-left: 20px;
+
+   }
+
+   .Apply-table .current-table-header{
+      font-weight: bold;
+      color: #d61b3c;
+      border-bottom: 1px solid #ddd;
+      font-size: 21px;
+      padding-bottom: 5px;
+   }
+
+   .Apply-table table{
+      padding:20px 30px;
+      line-height: 35px;
+   }
+
+   .Apply-table button{
+      
+   }
+
+   .Apply-table table th{
+      color: #333;
+     }
+
+     .Apply-table table input{
+      padding: 5px;
+      border: 1px solid #ddd;
+     }
+
+     .Apply-table table input:focus{
+      background-color:#ddd;
+      border:1px solid green;
+     }
+
+     .Apply-table  button{
+    background-color:#d61b3c;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+   padding: 6px 10px;
+      margin-top: 20px;
+      border: none;
+  }
+
+  .Apply-table button:hover{
+    background-color: #d9534f;
+    cursor: pointer;
+    }
