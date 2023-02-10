@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+
+ .about-introdction #About-title h3{
+ 	width: 280px;
+ }
+.title-name{
+	width: 400px;
+}
+
+.table-1{
+	width: 70%;
+	float: left;
+}
+
+ .table-2{
+ 	float: left;
+ }
+
+ p{
+ 	word-spacing: 5px;
+ }
