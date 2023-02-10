@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: arial;
+}
+
+  body{
+  	align-content: center;
+  	margin: 140px;
+  	}
+
+  	.new-website{
+  		margin-bottom: 90px;
+  	}
+
+  .new-website p{
+  	font-size: 30px;
+  	line-height: 40px;
+  }
+
+  .new-website #link a{
+  	color: #337ab7;
+  }
+
+   button{
+  	margin-left: 35%;
+  	padding: 10px;
+  	
+  	border:none;
+  	border-radius: 5px;
+  }
+
+  button a{
+  	color: white;
+  	text-decoration: none;
+  }
+
+  .new-website button{
+  	margin-top: px;
+  	background-color: #337ab7;
+  	margin-top: 10px;
+  }
+
+  .new-website button:hover{
+  	background-color: #2e6da4;
+  	cursor: pointer;
+  }
+
+  .GTU-study-material{
+  	line-height: 30px;
+  }
+
+  .GTU-study-material button{
+  	 background-color: #d9534f;
+  }
+
+  .GTU-study-material button:hover{
+  	 background-color: #d43f3a;
+  	 cursor: pointer;
+  }
