@@ -1,0 +1,88 @@
+*{
+	box-sizing: border-box;
+}
+
+.last-footer-2{
+   margin-top: 450px;
+}
+
+ .photo img{
+ 	float: left;
+ 	border: 1px solid #ddd;
+    padding: 3px;
+    padding-bottom: 2px;
+
+ }
+
+ .profesar-2 .photo{
+    float: right;
+    margin-bottom: 19px;
+ }
+
+ .profesar-2 .bio-data{
+    line-height: 35px;
+    margin-left: 0px;
+    width: 74%;
+    margin-bottom: 40px;
+ }
+ img{
+    height: 30vh;
+ }
+
+ .table-1 .profesar-1{
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 50px;
+ }
+
+ .profesar-1 .bio-data{
+    line-height: 35px;
+    margin-left: 20px;
+    float: left;
+    width: 74%;
+    margin-bottom: 40px;
+ }
+ .bio-data  .name b{
+    color: #d61b3c;
+    font-size: 25px;
+ }
+
+ .bio-data .name b:hover{
+   text-decoration: underline;
+ }
+
+ .bio-data .name{
+    color: #dc3545;
+    font-size: 13px;
+    padding-bottom: 15px;
+ }
+
+ .bio-data .number{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+ }
+
+ .numer i{
+    color: #343a40;
+ }
+
+  .number .president{
+    color:#343a40;
+  }
+
+  .number .email{
+    color: #dc3545;
+  }
+
+  .number .email:hover{
+    text-decoration: underline;
+  }
+
+  .number .phone-number{
+    color: #dc3545;
+  }
+
+  .profesar-1 p{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: ;
+  }
