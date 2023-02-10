@@ -1,0 +1,91 @@
+ *{
+   box-sizing: border-box;
+ }
+
+ .about-introdction  #About-title h3{
+  width: 310px;
+ }
+
+ 
+ .last-footer-2{
+    margin-top: 620px;
+    padding-top: 170px;
+ }
+
+ .page-content{
+    border: 2px solid red;
+    height: 20px;
+ }
+ .table-1{
+ 	width: 70%;
+   margin-bottom: 90px;
+ }
+
+ .title-name{
+ 	width: 100px;
+ }
+ table{
+    margin-top: 20px;
+ }
+
+ .table tr:hover{
+    background-color: white;
+ }
+
+  .table-1 button{
+  	margin: 10px 0;
+  	padding: 7px 10px;
+  	font-size: 15px;
+  	font-weight: bold;
+  	border-radius: 5px;
+  	background-color:white;
+   border:1px solid #ddd;
+  }
+
+  button:hover{
+  	background-color:#6c757d;
+  	border: none;
+  	border-radius: 5px;
+   color: white;
+  }
+
+  #fist-btn{
+  	background-color: #d61b3c;
+  	color: #fff;
+  	border: none;
+  	border-radius: 5px;
+  }
+
+   #fist-btn:hover{
+  	background-color: #6c757d;
+  }
+
+
+ .table-2 .content-ditel{
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    padding: 20px;
+    color: #343a40;
+ }
+
+ .table-2 .content-ditel .content-ditel-title{
+   margin-bottom: 15px;
+   border-bottom:1px solid #ddd;
+   font-size: 20px;
+   font-weight: 600;
+ }
+
+ .table-2  .content-ditel .name{
+   color: #d61b3c;
+   line-height: 30px;
+ }
+
+ .table-2 .content-ditel .number{
+   padding-left: 10px;
+ }
+
+ .table-2 .content-ditel .number:hover{
+   text-decoration: underline;
+ }
+
+
