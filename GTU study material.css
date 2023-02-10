@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+  .about-introdction .form{
+    background-color: #f8f9fa;
+    padding:15px 55px 15px 15px;
+    border-radius: 3px;
+    text-align: left;
+    line-height: 25px;
+    color: #d61b3c;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    margin-bottom: 200px;
+  }
+
+
+  .form select{
+    width: 400px;
+    height: 40px;
+    margin-right: 25px;
+    border: 1px solid #ddd;
+  }
+
+  .form select:focus{
+    border: 1px solid red;
+  }
+   .form button{
+    width: 100px;
+    height: 40px;
+    background-color: #d61b3c;
+    border: none;
+   }
+
+   .form button a{
+    text-decoration: none;
+    color: white;
+   }
+
+
+   .form button:hover{
+    background-color: #dc3545;
+    cursor: pointer;
+   }
+
