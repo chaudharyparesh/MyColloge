@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+
+.last-footer-2{
+	padding-top: 50px;
+}
+
+
+.about-introdction #About-title h3{
+	width: 60px;
+}
+
+p,ul{
+	word-spacing: 3px;
+    line-height: 23px;
+}
+
+ul{
+	margin-left: 40px;
+}
